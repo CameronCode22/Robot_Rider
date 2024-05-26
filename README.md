@@ -4,7 +4,6 @@
 
 A motorbike to be driven remotely. So that climatic testing can be done without a rider. The objective was for me to take a half finished project both physically and with software and make it work in 4 months.
 
-Requirements: List of technical and functional requirements provided by the client.
 ### What I Did
 ###### Approach: Comprehensive review and rewiring of the entire setup to enhance connection robustness.
 ###### Implementation:
